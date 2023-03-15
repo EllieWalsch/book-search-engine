@@ -15,21 +15,6 @@
     "react-router-dom": "^6.2.1",
     "react-scripts": "^5.0.1"
   },
-  "devDependencies": {
-    "@graphql-eslint/eslint-plugin": "^3.16.1",
-    "@types/react": "^18.0.27",
-    "@types/react-dom": "^18.0.10",
-    "eslint": "^8.35.0",
-    "eslint-config-prettier": "^8.7.0",
-    "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.27.5",
-    "eslint-plugin-n": "^15.6.1",
-    "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-use-encapsulation": "^1.1.0",
-    "prettier": "2.8.4"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
