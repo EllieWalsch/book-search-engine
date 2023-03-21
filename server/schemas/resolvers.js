@@ -32,6 +32,7 @@ const resolvers = {
       }
 
       const token = signToken(user);
+      console.log("logged in");
       return { token, user };
     },
 
